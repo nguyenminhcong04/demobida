@@ -1,0 +1,7 @@
+D:\Source_Code\C#\QL_DV_Bida\QL_DV_Bida\obj\Debug\net8.0-windows\QL_DV_Bida.frmDangKi.resources
+D:\Source_Code\C#\QL_DV_Bida\QL_DV_Bida\obj\Debug\net8.0-windows\QL_DV_Bida.Properties.Resources.resources
+D:\Source_Code\C#\QL_DV_Bida\QL_DV_Bida\obj\Debug\net8.0-windows\QL_DV_Bida.csproj.GenerateResource.cache
+D:\Source_Code\C#\QL_DV_Bida\QL_DV_Bida\obj\Debug\net8.0-windows\QL_DV_Bida.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source_Code\C#\QL_DV_Bida\QL_DV_Bida\obj\Debug\net8.0-windows\QL_DV_Bida.AssemblyInfoInputs.cache
+D:\Source_Code\C#\QL_DV_Bida\QL_DV_Bida\obj\Debug\net8.0-windows\QL_DV_Bida.AssemblyInfo.cs
+D:\Source_Code\C#\QL_DV_Bida\QL_DV_Bida\obj\Debug\net8.0-windows\QL_DV_Bida.csproj.CoreCompileInputs.cache
